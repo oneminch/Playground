@@ -1,4 +1,4 @@
-import"./modulepreload-polyfill.b7f2da20.js";/* empty css              */import{Q as o,a as s}from"./index.a6bd87ba.js";const a={"css-tinker":["css","fundamentals","content"],"drag-n-drop":["drag-and-drop","vanilla-js","windi-css"],"landing-page":["parallax","lightbox"],"random-jokes":["petite-vue","water-css","humor-api"]};Object.keys(a).forEach(e=>{let t=`
+import"./modulepreload-polyfill.b7f2da20.js";/* empty css              */import{Q as o,a as s}from"./index.a6bd87ba.js";const a={"css-tinker":["css","fundamentals","content","hacks"],"drag-n-drop":["drag-and-drop","vanilla-js","windi-css"],"landing-page":["parallax","lightbox"],"random-jokes":["petite-vue","water-css","humor-api"]};Object.keys(a).forEach(e=>{let t=`
 		<a
 			class="exp-link"
 			href="./${e}/index.html"
